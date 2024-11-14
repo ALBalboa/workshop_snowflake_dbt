@@ -8,7 +8,7 @@ sources:
       - name: customer
         columns:
           - name: c_custkey
-            data_type: number
+            data_type: number 
           - name: c_name
             data_type: varchar
           - name: c_address
